@@ -9,11 +9,12 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route element={<MainLayout />} />
+        <Route element={<MainLayout />} >
         <Route path="/" element={<Home />} />
         <Route path="/shop" element={<Shop />} />
         <Route path="/cart" element={<Cart />} />
-        <Route path="/admin" element={<AdminDashboard />} />
+          <Route path="/admin" element={<AdminDashboard />} />
+          </Route>
       </Routes>
     </BrowserRouter>
   );
