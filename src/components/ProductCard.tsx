@@ -1,8 +1,11 @@
 import type { Product } from "../types/Product";
+import { useCart } from "../context/CartContext";
 
 interface ProductCardProps {
   product: Product;
 }
+
+const { addToCart } = useCart();
 
 function ProductCard({ product }: ProductCardProps) {
   return (
