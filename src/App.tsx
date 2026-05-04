@@ -1,4 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { CartProvider } from "./context/CartContext";
 import MainLayout from "./layout/MainLayout";
 import Home from "./pages/Home";
 import Shop from "./pages/Shop";
@@ -7,6 +8,7 @@ import AdminDashboard from "./pages/AdminDashboard";
 
 function App() {
   return (
+    <CartProvider>
     <BrowserRouter>
       <Routes>
         <Route element={<MainLayout />} >
@@ -17,6 +19,7 @@ function App() {
           </Route>
       </Routes>
     </BrowserRouter>
+    </CartProvider>
   );
 }
 
