@@ -31,6 +31,12 @@ function ProductCard({ product }: ProductCardProps) {
             Featured
           </p>
         )}
+
+        <button
+          onClick={() => addToCart(product)}
+          className="w-full rounded-md bg-sky-600 px-4 py-2 font-medium text-sky-200">
+          Add To Cart
+        </button>
         
       </div>
     </article>
