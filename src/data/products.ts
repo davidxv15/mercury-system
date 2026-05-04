@@ -7,7 +7,7 @@ export const products: Product[] = [
     category: "Apparel",
     price: 89,
     stock: 12,
-    imageURL: "https://placehold.co/600x400",
+    imageUrl: "https://placehold.co/600x400",
     featured: true,
   },
   {
@@ -16,7 +16,7 @@ export const products: Product[] = [
     category: "Apparel",
     price: 80,
     stock: 18,
-    imageURL: "https://placehold.co/600x400",
+    imageUrl: "https://placehold.co/600x400",
     featured: false,
   },
   {
@@ -25,7 +25,7 @@ export const products: Product[] = [
     category: "Home",
     price: 65,
     stock: 8,
-    imageURL: "https://placehold.co/600x400",
+    imageUrl: "https://placehold.co/600x400",
     featured: false,
   },
   {
@@ -34,7 +34,7 @@ export const products: Product[] = [
     category: "Office",
     price: 10,
     stock: 30,
-    imageURL: "https://placehold.co/600x400",
+    imageUrl: "https://placehold.co/600x400",
     featured: false,
   },
 ];
