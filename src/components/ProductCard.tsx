@@ -5,15 +5,15 @@ interface ProductCardProps {
   product: Product;
 }
 
-const { addToCart } = useCart();
 
 function ProductCard({ product }: ProductCardProps) {
+  const { addToCart } = useCart();
   return (
     <article className="rounded-2xl border border-zinc-700 bg-zinc-800 p-4 shadow-lg">
       <img
-        src={product.imageURL}
+        src={product.imageUrl}
         alt={product.name}
-        className="rouded-xl" />
+        className="rounded-xl" />
       
       <div className="space-y-2">
         <p className="text-sm text-sky-400">{product.category}</p>
@@ -22,7 +22,7 @@ function ProductCard({ product }: ProductCardProps) {
           {product.name}
         </h3>
 
-        <p className="text-lg font-bold text-amber-400">{product.price}</p>
+        <p className="text-lg font-bold text-amber-400">${product.price}</p>
 
         <p className="text-lg font-bold text-amber-400">Stock: {product.stock}</p>
 
@@ -34,7 +34,7 @@ function ProductCard({ product }: ProductCardProps) {
 
         <button
           onClick={() => addToCart(product)}
-          className="w-full rounded-md bg-sky-600 px-4 py-2 font-medium text-sky-200">
+          className="mt-4 pb-2 w-full rounded-xl bg-red-600 px-4 py-2 font-medium text-sky-200 transition hover:bg-sky-500">
           Add To Cart
         </button>
         
