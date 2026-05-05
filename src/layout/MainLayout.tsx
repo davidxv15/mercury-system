@@ -1,6 +1,5 @@
 import { Link, Outlet } from "react-router-dom";
 import { useCart } from "../context/CartContext";
-import { use } from "react";
 
 function MainLayout() {
   const { cartCount } = useCart();
