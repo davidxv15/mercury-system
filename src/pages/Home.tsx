@@ -18,6 +18,11 @@ function Home() {
 
         <div className="mt-6 flex gap-4">
           <Link
+            to="/shop"
+          className="rounded-xl border border-zinc-600 px-5 py-3 font-medium text-stone-200 transition hover:border-sky-500">
+            Shop Products
+          </Link>
+          <Link
             to="/admin"
           className="rounded-xl border border-zinc-600 px-5 py-3 font-medium text-stone-200 transition hover:border-sky-500">
             Shop Products
