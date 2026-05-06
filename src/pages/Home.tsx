@@ -17,7 +17,8 @@ function Home() {
         </p>
 
         <div className="mt-6 flex gap-4">
-          <Link>
+          <Link
+          to="/admin">
             Shop Products
           </Link>
         </div>
