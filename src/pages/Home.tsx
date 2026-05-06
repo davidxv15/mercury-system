@@ -29,6 +29,12 @@ function Home() {
           </Link>
         </div>
       </section>
+
+      <section className="grid gap-4 md:grid-cols-3">
+        <article className=""></article>
+        <article className=""></article>
+        <article className=""></article>
+      </section>
     </div>
   );
 }
