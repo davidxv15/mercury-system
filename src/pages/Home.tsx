@@ -33,6 +33,9 @@ function Home() {
       <section className="grid gap-4 md:grid-cols-3">
         <article className="">
           <h2 className="text-xl">Storefront</h2>
+          <p className="mt-2">
+            Product browsing, cart state, and customer-facing commerce flow.
+          </p>
         </article>
         <article className=""></article>
         <article className=""></article>
