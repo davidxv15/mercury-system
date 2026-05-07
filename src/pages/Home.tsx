@@ -40,7 +40,11 @@ function Home() {
 
         <article className="">
           <h2 className="text-xl">Admin</h2>
+          <p className="mt-2">
+            Inventory, orders, metrics, and business operations tooling.
+          </p>
         </article>
+        
         <article className=""></article>
       </section>
     </div>
