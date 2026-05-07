@@ -31,7 +31,9 @@ function Home() {
       </section>
 
       <section className="grid gap-4 md:grid-cols-3">
-        <article className=""></article>
+        <article className="">
+          <h2 className="text-xl">Storefront</h2>
+        </article>
         <article className=""></article>
         <article className=""></article>
       </section>
