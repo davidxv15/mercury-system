@@ -37,7 +37,10 @@ function Home() {
             Product browsing, cart state, and customer-facing commerce flow.
           </p>
         </article>
-        <article className=""></article>
+
+        <article className="">
+          <h2 className="text-xl">Admin</h2>
+        </article>
         <article className=""></article>
       </section>
     </div>
