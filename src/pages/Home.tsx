@@ -48,7 +48,7 @@ function Home() {
         <article className="">
           <h2 className="text-xl">System</h2>
           <p className="mt2">
-            
+            One shared product model powering both customer and operator views.
           </p>
         </article>
       </section>
