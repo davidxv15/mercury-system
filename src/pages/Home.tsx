@@ -44,8 +44,10 @@ function Home() {
             Inventory, orders, metrics, and business operations tooling.
           </p>
         </article>
-        
-        <article className=""></article>
+
+        <article className="">
+          <h2 className="text-xl">System</h2>
+        </article>
       </section>
     </div>
   );
