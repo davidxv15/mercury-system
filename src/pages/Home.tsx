@@ -45,7 +45,7 @@ function Home() {
           </p>
         </article>
 
-        <article className="rounded-3xl">
+        <article className="rounded-3xl border border-zinc-700 bg-zinc-800 p-5">
           <h2 className="text-xl">System</h2>
           <p className="mt-2">
             One shared product model powering both customer and operator views.
