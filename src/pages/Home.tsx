@@ -39,7 +39,7 @@ function Home() {
         </article>
 
         <article className="rounded-2xl border border-zinc-700 bg-zinc-800 p-5">
-          <h2 className="text-xl">Admin</h2>
+          <h2 className="text-xl font-semibold text-stone-100">Admin</h2>
           <p className="mt-2">
             Inventory, orders, metrics, and business operations tooling.
           </p>
