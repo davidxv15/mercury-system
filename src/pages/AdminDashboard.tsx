@@ -1,3 +1,5 @@
+import { products } from "../data/products";
+
 function AdminDashboard() {
   return (
     <div className="p-4">
