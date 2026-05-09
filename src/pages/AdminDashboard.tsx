@@ -6,7 +6,7 @@ function AdminDashboard() {
   const featuredProducts = products.filter((product) => product.featured).length;
 
   return (
-    <div className="p-4">
+    <div className="space-y-6 p-4">
       <h2 className="text-3xl font-semibold text-stone-200">
         Admin
       </h2>
