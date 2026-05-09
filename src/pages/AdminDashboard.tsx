@@ -12,7 +12,9 @@ function AdminDashboard() {
       </h2>
 
       <section className="grid">
-        <article className="rounded-2xl"></article>
+        <article className="rounded-2xl">
+          <p className="text-sm"></p>
+        </article>
       </section>
 
     </div>
