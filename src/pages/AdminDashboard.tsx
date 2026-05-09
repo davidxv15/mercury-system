@@ -11,7 +11,9 @@ function AdminDashboard() {
         Admin
       </h2>
 
-      <section className="grid"></section>
+      <section className="grid">
+        <article className="rounded-2xl"></article>
+      </section>
 
     </div>
   );
