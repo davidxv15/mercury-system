@@ -13,7 +13,7 @@ function AdminDashboard() {
 
       <section className="grid">
         <article className="rounded-2xl">
-          <p className="text-sm"></p>
+          <p className="text-sm">Products</p>
         </article>
       </section>
 
