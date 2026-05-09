@@ -10,6 +10,9 @@ function AdminDashboard() {
       <h2 className="text-3xl font-semibold text-stone-200">
         Admin
       </h2>
+
+      <section className="grid"></section>
+
     </div>
   );
 }
