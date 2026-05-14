@@ -24,7 +24,7 @@ function AdminDashboard() {
 
         <article className="rounded-2xl border border-zinc-700 bg-zinc-800 p-5">
           <p className="text-sm text-stone-400">Featured</p>
-          <h3 className="text-3xl font-bold text-stone-100"></h3>
+          <h3 className="text-3xl font-bold text-stone-100">{featuredProducts}</h3>
         </article>
       </section>
 
