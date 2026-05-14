@@ -19,7 +19,7 @@ function AdminDashboard() {
 
         <article className="rounded-2xl">
           <p className="text-sm text-stone-400">Total Stock</p>
-          <h3 className="text-3xl font-bold text-stone-100"></h3>
+          <h3 className="text-3xl font-bold text-stone-100">{totalStock}</h3>
         </article>
 
         <article className="rounded-2xl">
