@@ -29,7 +29,9 @@ function AdminDashboard() {
       </section>
 
       <section className="rounded-2xl border border-zinc-700 bg-zinc-800 p-5">
-        
+        <h3 className="mb-4 text-xl font-semibold text-stone-100">
+          Inventory Snapshot
+        </h3>
       </section>
 
     </div>
