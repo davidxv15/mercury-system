@@ -32,6 +32,12 @@ function AdminDashboard() {
         <h3 className="mb-4 text-xl font-semibold text-stone-100">
           Inventory Snapshot
         </h3>
+
+        <div className="space-y-3">
+
+        </div>
+
+        
       </section>
 
     </div>
