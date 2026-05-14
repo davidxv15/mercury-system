@@ -28,6 +28,10 @@ function AdminDashboard() {
         </article>
       </section>
 
+      <section className="rounded-2xl border border-zinc-700 bg-zinc-800 p-5">
+        
+      </section>
+
     </div>
   );
 }
