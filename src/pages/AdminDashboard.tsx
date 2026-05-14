@@ -8,7 +8,7 @@ function AdminDashboard() {
   return (
     <div className="space-y-6 p-4">
       <h2 className="text-3xl font-semibold text-stone-200">
-        Admin
+        Admin Dashboard
       </h2>
 
       <section className="grid">
