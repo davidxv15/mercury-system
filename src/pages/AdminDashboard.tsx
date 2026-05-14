@@ -12,7 +12,7 @@ function AdminDashboard() {
       </h2>
 
       <section className="grid gap-4 md:grid-cols-3">
-        <article className="rounded-2xl">
+        <article className="rounded-2xl border border-zinc-700 bg-zinc-800 p-5">
           <p className="text-sm text-stone-400">Products</p>
           <h3 className="text-3xl font-bold text-stone-100">{totalProducts}</h3>
         </article>
