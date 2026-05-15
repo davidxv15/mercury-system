@@ -36,7 +36,10 @@ function AdminDashboard() {
         <div className="space-y-3">
           {/* mapping over data to render UI component */}
           {products.map((product) => (
-            
+            <article
+              className="flex items-center justify-between rounded-xl bg-zinc-900 p-4">
+
+            </article>
           ))}
         </div>
 
