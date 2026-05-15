@@ -48,7 +48,7 @@ function AdminDashboard() {
                 </p>
               </div>
               <p className="font-semibold text-amber-400">
-                
+                Stock: {product.stock}
               </p>
             </article>
           ))}
