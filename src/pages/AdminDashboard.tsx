@@ -44,7 +44,7 @@ function AdminDashboard() {
                   {product.id}
                 </h4>
                 <p className="font-semibold text-amber-400">
-                  
+                  {product.category}
                 </p>
               </div>
             </article>
