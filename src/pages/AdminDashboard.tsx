@@ -37,6 +37,7 @@ function AdminDashboard() {
           {/* mapping over data to render UI component */}
           {products.map((product) => (
             <article
+              key={product.id}
               className="flex items-center justify-between rounded-xl bg-zinc-900 p-4">
 
             </article>
