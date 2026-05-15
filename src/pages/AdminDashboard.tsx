@@ -34,7 +34,10 @@ function AdminDashboard() {
         </h3>
 
         <div className="space-y-3">
-
+          {/* mapping over data to render UI component */}
+          {products.map((product) => (
+            
+          ))}
         </div>
 
         
