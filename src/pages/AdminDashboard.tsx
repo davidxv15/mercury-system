@@ -41,7 +41,7 @@ function AdminDashboard() {
               className="flex items-center justify-between rounded-xl bg-zinc-900 p-4">
               <div>
                 <h4 className="font-semibold text-stone-100">
-                  
+                  {product.id}
                 </h4>
               </div>
             </article>
