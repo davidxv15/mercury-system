@@ -47,6 +47,9 @@ function AdminDashboard() {
                   {product.category}
                 </p>
               </div>
+              <p className="font-semibold text-amber-400">
+                
+              </p>
             </article>
           ))}
         </div>
