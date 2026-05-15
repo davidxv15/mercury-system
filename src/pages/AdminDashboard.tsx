@@ -39,7 +39,11 @@ function AdminDashboard() {
             <article
               key={product.id}
               className="flex items-center justify-between rounded-xl bg-zinc-900 p-4">
-
+              <div>
+                <h4 className="font-semibold text-stone-100">
+                  
+                </h4>
+              </div>
             </article>
           ))}
         </div>
