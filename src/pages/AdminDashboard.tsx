@@ -43,6 +43,9 @@ function AdminDashboard() {
                 <h4 className="font-semibold text-stone-100">
                   {product.id}
                 </h4>
+                <p className="font-semibold text-amber-400">
+                  
+                </p>
               </div>
             </article>
           ))}
