@@ -56,7 +56,7 @@ function Cart() {
               Total: ${orderTotal}
             </p>
 
-            <button className="mt-5 w-full rounded-xl bg-sky-600 px-5 py-3 font-medium text-white transition hover:bg-sky-500">
+            <button className="mt-5 w-full rounded-xl bg-sky-800 px-5 py-3 font-medium text-white transition hover:bg-sky-700">
               Checkout
             </button>
           </aside>
