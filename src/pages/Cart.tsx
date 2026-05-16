@@ -20,7 +20,14 @@ function Cart() {
 
         <p className="rounded-2xl border border-zinz-700 bg-zinc-800 text-stone-400 text-lg p-6">
           Your cart is empty.
-        </p>
+          </p>
+          
+          <Link
+            to="/shop"
+            className="mt-4 inline-block rounded-xl bg-sky-600 px-5 py-3 font-medium text-white transition hover:bg-sky-500">
+            Browse Products
+          </Link>
+
         </section>
       ) : (
           <section>
