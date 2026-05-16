@@ -16,9 +16,14 @@ function Cart() {
       </h2>
 
       {cartItems.length === 0 ? (
-        <p className="rounded-2xl border border-zinz-700 bg-zinc-800 text-stone-400 p-6">
+        <p className="rounded-2xl border border-zinz-700 bg-zinc-800 text-stone-400 text-lg p-6">
           Your cart is empty.
         </p>
+
+        <Link className="mt-4 inline-block rounded-xl bg-sky-600 px-5 py-3 font-medium text-white transition">
+            Browse Products
+        </Link>
+
       ) : (
           <section>
             <p className="text-stone-400">Total items: {cartCount}</p>
