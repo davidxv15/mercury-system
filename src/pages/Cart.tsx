@@ -16,7 +16,7 @@ function Cart() {
       </h2>
 
       {cartItems.length === 0 ? (
-        <p className="text-stone-400">
+        <p className="border border-zinz-700 bg-zinc-800 text-stone-400">
           Your cart is empty.
         </p>
       ) : (
