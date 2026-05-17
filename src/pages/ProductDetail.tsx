@@ -8,5 +8,13 @@ function ProductDetail() {
 
   const product = products.find((item) => item.id === productId);
 
-  
+  if (!product) {
+    return (
+      <div className="p-4">
+        <h2 className="text3xl font-semibold text-stone-200">
+          Prodcuct not found.
+        </h2>
+      </div>
+    )
+  }
 }
