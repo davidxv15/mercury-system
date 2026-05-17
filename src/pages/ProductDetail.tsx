@@ -1,11 +1,3 @@
-function ProductId() {
-  return (
-    <div className="p-4">
-      <h3 className="text-amber-400">
-        Prodcut Id
-      </h3>
-    </div>
-  );
-}
-
-export default ProductId;
+import { Link, useParams } from "react-router-dom"
+import { products } from "../data/products"
+import { useCart } from "../context/CartContext"
