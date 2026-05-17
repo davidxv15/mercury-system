@@ -14,7 +14,14 @@ function ProductDetail() {
         <h2 className="text3xl font-semibold text-stone-200">
           Prodcuct not found.
         </h2>
+
+        <Link
+          to="/shop"
+          className="mt-4 inline-block text-sky-400">
+          Back to shop
+        </Link>
+
       </div>
-    )
+    );
   }
 }
