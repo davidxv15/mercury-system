@@ -24,4 +24,13 @@ function ProductDetail() {
       </div>
     );
   }
+
+  return (
+    <div className="grid gap-6">
+      <img
+        src=""
+        alt=""
+        className="h-96 w-full rounded-2xl object-cover" />
+    </div>
+  )
 }
