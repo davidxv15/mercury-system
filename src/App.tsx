@@ -14,6 +14,7 @@ function App() {
         <Route element={<MainLayout />} >
         <Route path="/" element={<Home />} />
         <Route path="/shop" element={<Shop />} />
+        <Route path="ProductId" element={productId} />
         <Route path="/cart" element={<Cart />} />
           <Route path="/admin" element={<AdminDashboard />} />
           </Route>
