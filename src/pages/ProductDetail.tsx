@@ -29,7 +29,7 @@ function ProductDetail() {
     <div className="grid gap-6">
       <img
         src=""
-        alt=""
+        alt={product.name}
         className="h-96 w-full rounded-2xl object-cover" />
     </div>
   )
