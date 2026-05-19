@@ -40,7 +40,7 @@ function ProductDetail() {
         </h2>
 
         <p className="mt-4 text-4 text-3xl font-bold text-amber-400">
-          
+          ${product.price}
         </p>
 
       </section>
