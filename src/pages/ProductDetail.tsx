@@ -33,7 +33,7 @@ function ProductDetail() {
         className="h-96 w-full rounded-2xl object-cover" />
       
       <section className="rounded-2xl border">
-        
+        <p className="text-sm text-sky-400"></p>
       </section>
 
     </div>
