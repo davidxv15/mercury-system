@@ -32,7 +32,7 @@ function ProductDetail() {
         alt={product.name}
         className="h-96 w-full rounded-2xl object-cover" />
       
-      <section className="rounded-2xl border">
+      <section className="rounded-2xl border border-zinc-700 bg-zinc-800 p-6">
         <p className="text-sm text-sky-400">{product.category}</p>
 
         <h2 className="mt-2 text-4xl font-bold text-stone-100">
@@ -45,7 +45,9 @@ function ProductDetail() {
 
         <p className="mt-3 text-stone-400">Stock: {product.stock}</p>
 
-        <button className="mt-6 w-full rounded-xl bg-sky-600 px-5 py-3 font-medium text-white transistion hover:bg-sky-500">
+        <button
+          onClick={() => addToCart(product)}
+          className="mt-6 w-full rounded-xl bg-sky-600 px-5 py-3 font-medium text-white transistion hover:bg-sky-500">
           Add to cart
         </button>
 
