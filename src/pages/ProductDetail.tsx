@@ -34,6 +34,11 @@ function ProductDetail() {
       
       <section className="rounded-2xl border">
         <p className="text-sm text-sky-400">{product.category}</p>
+
+        <h2 className="mt-2 text-4xl font-bold text-stone-100">
+          
+        </h2>
+
       </section>
 
     </div>
