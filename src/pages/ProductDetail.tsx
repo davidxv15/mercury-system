@@ -43,7 +43,7 @@ function ProductDetail() {
           ${product.price}
         </p>
 
-        <p className="mt-3 text-stone-400"></p>
+        <p className="mt-3 text-stone-400">Stock: {product.stock}</p>
 
       </section>
 
