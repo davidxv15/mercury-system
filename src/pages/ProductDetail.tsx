@@ -45,8 +45,12 @@ function ProductDetail() {
 
         <p className="mt-3 text-stone-400">Stock: {product.stock}</p>
 
+        <button className="mt-6 w-full rounded-xl bg-sky-600 px-5 py-3 font-medium text-white transistion hover:bg-sky-500">
+          Add to cart
+        </button>
+
       </section>
 
     </div>
-  )
+  );
 }
