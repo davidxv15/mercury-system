@@ -39,6 +39,10 @@ function ProductDetail() {
           {product.name}
         </h2>
 
+        <p className="mt-4 text-4 text-3xl font-bold text-amber-400">
+          
+        </p>
+
       </section>
 
     </div>
