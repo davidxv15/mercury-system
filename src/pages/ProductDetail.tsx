@@ -31,6 +31,11 @@ function ProductDetail() {
         src={product.imageUrl}
         alt={product.name}
         className="h-96 w-full rounded-2xl object-cover" />
+      
+      <section className="rounded-2xl border">
+        
+      </section>
+
     </div>
   )
 }
