@@ -4,6 +4,7 @@ import MainLayout from "./layout/MainLayout";
 import Home from "./pages/Home";
 import Shop from "./pages/Shop";
 import ProductId from "./pages/ProductDetail";
+import ProductDetail from "./pages/ProductDetail";
 import Cart from "./pages/Cart";
 import AdminDashboard from "./pages/AdminDashboard";
 
