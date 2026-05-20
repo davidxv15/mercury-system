@@ -11,10 +11,13 @@ function ProductCard({ product }: ProductCardProps) {
   const { addToCart } = useCart();
   return (
     <article className="rounded-2xl border border-zinc-700 bg-zinc-800 p-4 shadow-lg">
+
+      <Link>
       <img
         src={product.imageUrl}
         alt={product.name}
         className="rounded-xl" />
+        </Link>
       
       <div className="space-y-2">
         <p className="text-sm text-sky-400">{product.category}</p>
