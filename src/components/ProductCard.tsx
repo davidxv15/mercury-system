@@ -19,9 +19,11 @@ function ProductCard({ product }: ProductCardProps) {
       <div className="space-y-2">
         <p className="text-sm text-sky-400">{product.category}</p>
 
+        <Link to={`/product/${product.id}`}>
         <h3 className="text-lg font-semibold text-stone-100">
           {product.name}
         </h3>
+        </Link>
 
         <p className="text-lg font-bold text-amber-400">${product.price}</p>
 
