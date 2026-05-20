@@ -12,7 +12,7 @@ function ProductCard({ product }: ProductCardProps) {
   return (
     <article className="rounded-2xl border border-zinc-700 bg-zinc-800 p-4 shadow-lg">
 
-      <Link>
+      <Link to={`/product/${product.id}`}>
       <img
         src={product.imageUrl}
         alt={product.name}
