@@ -3,4 +3,5 @@ interface ProductFiltersProps {
   onSearchChange: (value: string) => void;
   selectedCategory: string;
   onCategoryChange: (value: string) => void;
+  categories: string[];
 }
