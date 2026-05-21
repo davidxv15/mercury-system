@@ -14,6 +14,8 @@ function ProductFilters({
   categories,
 }: ProductFiltersProps) {
   return (
-    
+    <section className="mb-6 grid gap-4 rounded-xl">
+      
+    </section>
   )
 })
