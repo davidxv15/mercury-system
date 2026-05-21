@@ -7,5 +7,11 @@ interface ProductFiltersProps {
 }
 
 function ProductFilters({
+  searchTerm,
+  onSearchChange,
+  selectedCategory,
+  onCategoryChange,
+  categories,
+}: ProductFiltersProps) {
   
 })
