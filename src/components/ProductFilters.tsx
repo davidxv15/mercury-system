@@ -13,5 +13,7 @@ function ProductFilters({
   onCategoryChange,
   categories,
 }: ProductFiltersProps) {
-  
+  return (
+    
+  )
 })
