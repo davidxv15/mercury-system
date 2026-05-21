@@ -5,3 +5,7 @@ interface ProductFiltersProps {
   onCategoryChange: (value: string) => void;
   categories: string[];
 }
+
+function ProductFilters({
+  
+})
