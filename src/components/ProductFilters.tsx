@@ -22,7 +22,10 @@ function ProductFilters({
       className="roundeed-xl">
       </input>
 
-      <select name="" id="" className="rounded-xl border border-xl"></select>
+      <select
+        value={}
+        onChange={}
+        className="rounded-xl border border-xl"></select>
 
     </section>
   )
