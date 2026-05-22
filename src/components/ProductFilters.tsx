@@ -21,6 +21,9 @@ function ProductFilters({
       placeholder="Search products..."
       className="roundeed-xl">
       </input>
+
+      <select name="" id="" className="rounded-xl border border-xl"></select>
+
     </section>
   )
 })
