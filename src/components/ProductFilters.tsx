@@ -17,6 +17,7 @@ function ProductFilters({
     <section
       value={searchTerm}
       onChange={(event) => onSearchChange(event.target.value)}
+      placeholder="Search products..."
       className="mb-6 grid gap-4 rounded-xl">
       <input>
       </input>
