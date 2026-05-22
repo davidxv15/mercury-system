@@ -18,7 +18,8 @@ function ProductFilters({
       <input
       value={searchTerm}
       onChange={(event) => onSearchChange(event.target.value)}
-      placeholder="Search products...">
+      placeholder="Search products..."
+      className="roundeed-xl">
       </input>
     </section>
   )
