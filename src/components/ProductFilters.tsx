@@ -25,7 +25,11 @@ function ProductFilters({
       <select
         value={}
         onChange={}
-        className="rounded-xl border border-xl"></select>
+        className="rounded-xl border border-xl">
+        
+        <option value="All">All Categories</option>
+
+        </select>
 
     </section>
   )
