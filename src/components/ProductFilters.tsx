@@ -14,12 +14,11 @@ function ProductFilters({
   categories,
 }: ProductFiltersProps) {
   return (
-    <section
+    <section className="mb-6 grid gap-4 rounded-xl">
+      <input
       value={searchTerm}
       onChange={(event) => onSearchChange(event.target.value)}
-      placeholder="Search products..."
-      className="mb-6 grid gap-4 rounded-xl">
-      <input>
+      placeholder="Search products...">
       </input>
     </section>
   )
