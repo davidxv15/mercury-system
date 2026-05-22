@@ -16,6 +16,7 @@ function ProductFilters({
   return (
     <section
       value={searchTerm}
+      onChange={(event) => onSearchChange()}
       className="mb-6 grid gap-4 rounded-xl">
       <input>
       </input>
