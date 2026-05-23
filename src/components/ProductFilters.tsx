@@ -39,6 +39,6 @@ function ProductFilters({
         </select>
     </section>
   );
-})
+}
 
 export default ProductFilters;
