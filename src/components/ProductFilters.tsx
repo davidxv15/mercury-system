@@ -40,3 +40,5 @@ function ProductFilters({
     </section>
   );
 })
+
+export default ProductFilters;
