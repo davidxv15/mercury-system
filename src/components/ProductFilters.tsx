@@ -19,7 +19,7 @@ function ProductFilters({
       value={searchTerm}
       onChange={(event) => onSearchChange(event.target.value)}
       placeholder="Search products..."
-      className="roundeed-xl"
+      className="roundeed-xl border border-zinc-700 bg-zinc-900 px-4 py-3 text-stone-200 outline focus:border-sky-500"
       />
 
       <select
