@@ -29,8 +29,10 @@ function ProductFilters({
         
         <option value="All">All Categories</option>
 
-        </select>
+        {categories.map((category) => (
 
+        ))}
+        </select>
     </section>
-  )
+  );
 })
