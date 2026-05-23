@@ -25,7 +25,7 @@ function ProductFilters({
       <select
         value={selectedCategory}
         onChange={(event) => onCategoryChange(event.target.value)}
-        className="rounded-xl border border-xl">
+        className="rounded-xl border border-zinc-700 bg-zinc-900 px-4 py-3 text-stone-200 outline-none focus:border-emerald-500">
         
         <option value="All">All Categories</option>
 
