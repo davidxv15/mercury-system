@@ -23,8 +23,8 @@ function ProductFilters({
       />
 
       <select
-        value={}
-        onChange={}
+        value={selectedCategory}
+        onChange={(event) => onCategoryChange(event.target.value)}
         className="rounded-xl border border-xl">
         
         <option value="All">All Categories</option>
