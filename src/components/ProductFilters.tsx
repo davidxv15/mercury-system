@@ -14,7 +14,7 @@ function ProductFilters({
   categories,
 }: ProductFiltersProps) {
   return (
-    <section className="mb-6 grid gap-4 rounded-2xl border border-zinc-700">
+    <section className="mb-6 grid gap-4 rounded-2xl border border-zinc-700 bg-zinc-800 p-4 md:grid-cols-2">
       <input
       value={searchTerm}
       onChange={(event) => onSearchChange(event.target.value)}
