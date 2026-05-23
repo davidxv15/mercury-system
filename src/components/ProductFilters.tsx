@@ -31,6 +31,8 @@ function ProductFilters({
 
         {categories.map((category) => (
 
+          <option value={category}></option>
+
         ))}
         </select>
     </section>
