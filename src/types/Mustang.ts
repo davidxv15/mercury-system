@@ -4,3 +4,7 @@ export type SpecInfo = {
   analogy: string;
   buyerValue: string;
 };
+
+export type Mustang = {
+  
+}
