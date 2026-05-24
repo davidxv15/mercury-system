@@ -6,5 +6,5 @@ export type SpecInfo = {
 };
 
 export type Mustang = {
-  
+  id: string;
 }
