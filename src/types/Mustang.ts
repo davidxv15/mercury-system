@@ -9,5 +9,5 @@ export type Mustang = {
   id: string;
   year: number;
   trim: string;
-  bodyStyle: "Fastback" | "Convert
+  bodyStyle: "Fastback" | "Convertible";
 }
