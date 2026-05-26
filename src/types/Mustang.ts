@@ -18,4 +18,6 @@ export type Mustang = {
   torque: SpecInfo;
   transmission: SpecInfo;
   drivetrain: SpecInfo;
+
+  keyFeatures: string[];
 }
