@@ -16,4 +16,5 @@ export type Mustang = {
   cylinders: SpecInfo;
   horsepower: SpecInfo;
   torque: SpecInfo;
+  transmission: SpecInfo;
 }
