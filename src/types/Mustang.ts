@@ -10,4 +10,6 @@ export type Mustang = {
   year: number;
   trim: string;
   bodyStyle: "Fastback" | "Convertible";
+
+  engines: SpecInfo;
 }
