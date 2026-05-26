@@ -12,4 +12,5 @@ export type Mustang = {
   bodyStyle: "Fastback" | "Convertible";
 
   engines: SpecInfo;
+  liters: SpecInfo;
 }
