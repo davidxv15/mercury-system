@@ -1,0 +1,1 @@
+import { Mustang } from "../types/Mustang";
