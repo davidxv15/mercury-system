@@ -7,6 +7,10 @@ export const mustangs: Mustang[] = [
     year: 0,
     trinm: "",
     bodyStyle: "",
+
+    engine: {
+      
+    }
   }
 
 ]
