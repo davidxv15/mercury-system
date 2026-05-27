@@ -14,6 +14,10 @@ export const mustangs: Mustang[] = [
     liters: {
 
     },
+    {
+      cylinders:
+
+    },
   }
 
 ]
