@@ -50,6 +50,13 @@ export const mustangs: Mustang[] = [
       buyerValue: ""
     },
 
+    drivetrain: {
+      value: "",
+      definition: "",
+      analogy: "",
+      buyerValue: ""
+    },
+
   }
 
 ]
