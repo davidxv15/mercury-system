@@ -14,7 +14,7 @@ export const mustangs: Mustang[] = [
       analogy: "",
       buyerValue: ""
     },
-    
+
     liters: {
       value: "",
       definition: "",
@@ -23,6 +23,13 @@ export const mustangs: Mustang[] = [
     },
 
     cylinders: {
+      value: "",
+      definition: "",
+      analogy: "",
+      buyerValue: ""
+    },
+
+    horsepower: {
       value: "",
       definition: "",
       analogy: "",
