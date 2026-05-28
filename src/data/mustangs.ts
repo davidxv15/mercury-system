@@ -14,18 +14,21 @@ export const mustangs: Mustang[] = [
       analogy: "",
       buyerValue: ""
     },
+    
     liters: {
       value: "",
       definition: "",
       analogy: "",
       buyerValue: ""
     },
+
     cylinders: {
       value: "",
       definition: "",
       analogy: "",
       buyerValue: ""
-    }
+    },
+
   }
 
 ]
