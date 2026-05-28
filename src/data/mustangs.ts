@@ -1,12 +1,14 @@
 import { Mustang } from "../types/Mustang";
 
 export const mustangs: Mustang[] = [
+
+  //  2025 ECOBOOST
   
   {
     id: "",
     year: 0,
-    trinm: "",
-    bodyStyle: "",
+    trim: "",
+    bodyStyle: "Fastback",
 
     engine: {
       value: "",
