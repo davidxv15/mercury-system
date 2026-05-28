@@ -9,7 +9,10 @@ export const mustangs: Mustang[] = [
     bodyStyle: "",
 
     engine: {
-
+      value: "",
+      definition: "",
+      analogy: "",
+      buyerValue: ""
     },
     liters: {
       
