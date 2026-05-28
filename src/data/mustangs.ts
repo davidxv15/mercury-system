@@ -20,9 +20,9 @@ export const mustangs: Mustang[] = [
       analogy: "",
       buyerValue: ""
     },
-    cylinders: [
+    cylinders: {
       
-    ]
+    }
   }
 
 ]
