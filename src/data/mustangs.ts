@@ -56,7 +56,13 @@ export const mustangs: Mustang[] = [
       analogy: "",
       buyerValue: ""
     },
-
-  }
+    
+    keyFeatures: [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
 
 ]
