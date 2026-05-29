@@ -81,6 +81,7 @@ export const mustangs: Mustang[] = [
 
     engine: {
       value: "",
+      definition: "",
     }
   },
 
