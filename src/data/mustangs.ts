@@ -134,8 +134,7 @@ export const mustangs: Mustang[] = [
       "",
       ""
     ]
-
-    }
   },
+  
 
 ]
