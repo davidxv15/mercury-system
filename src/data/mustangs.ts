@@ -147,6 +147,7 @@ export const mustangs: Mustang[] = [
     bodyStyle: "",
 
     engine: {
+      value: "",
       
     }
   }
