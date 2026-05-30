@@ -143,6 +143,8 @@ export const mustangs: Mustang[] = [
   {
     id: "",
     year: 0,
+    trim: "",
+    
   }
 
 ]
