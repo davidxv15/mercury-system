@@ -145,6 +145,10 @@ export const mustangs: Mustang[] = [
     year: 0,
     trim: "",
     bodyStyle: "",
+
+    engine: {
+      
+    }
   }
 
 ]
