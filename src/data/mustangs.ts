@@ -161,7 +161,7 @@ export const mustangs: Mustang[] = [
     },
 
     cylinders: {
-      
+      value: 0,
     }
   }
 
