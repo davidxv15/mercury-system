@@ -154,6 +154,7 @@ export const mustangs: Mustang[] = [
     },
 
     liters: {
+      value: 0,
       
     }
   }
