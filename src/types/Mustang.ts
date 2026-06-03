@@ -20,4 +20,4 @@ export type Mustang = {
   drivetrain: SpecInfo;
 
   keyFeatures: string[];
-}
+};
