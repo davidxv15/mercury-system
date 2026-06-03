@@ -86,11 +86,11 @@ export const mustangs: Mustang[] = [
       buyerValue: ""
     },
 
-      liters: {
-        value: 0,
-        definition: "",
-        analogy: "",
-        buyerValue: ""
+    liters: {
+      value: 0,
+      definition: "",
+      analogy: "",
+      buyerValue: ""
     },
       
     cylinders: {
@@ -189,4 +189,4 @@ export const mustangs: Mustang[] = [
     }
   }
 
-]
+];
