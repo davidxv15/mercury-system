@@ -185,6 +185,7 @@ export const mustangs: Mustang[] = [
       value: 0,
       definition: "",
       analogy: "",
+      buyerValue: ""
     }
   }
 
