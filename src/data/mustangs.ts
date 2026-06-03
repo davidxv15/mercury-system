@@ -184,6 +184,7 @@ export const mustangs: Mustang[] = [
     transmission: {
       value: 0,
       definition: "",
+      analogy: "",
     }
   }
 
