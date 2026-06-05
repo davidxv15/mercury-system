@@ -186,6 +186,10 @@ export const mustangs: Mustang[] = [
       definition: "",
       analogy: "",
       buyerValue: ""
+    },
+
+    drivetrain: {
+      
     }
   }
 
