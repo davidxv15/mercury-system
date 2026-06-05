@@ -190,6 +190,7 @@ export const mustangs: Mustang[] = [
 
     drivetrain: {
       value: 0,
+      definition: "",
     }
   }
 
