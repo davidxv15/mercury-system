@@ -196,7 +196,10 @@ export const mustangs: Mustang[] = [
     },
 
     keyFeatures: [
-      
+      "",
+      "",
+      "",
+      ""
     ]
   }
 
