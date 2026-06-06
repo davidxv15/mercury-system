@@ -1,3 +1,4 @@
 export type SpecInfo = {
-  value: 
+  value: ;
+  definition: ;
 }
