@@ -1,4 +1,4 @@
-import { Mustang } from "../../types/Mustang";
+import { Mustang } from "../../types/Vehicle";
 
 export const mustangs: Mustang[] = [
 
