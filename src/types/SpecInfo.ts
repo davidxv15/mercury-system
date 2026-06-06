@@ -1,6 +1,6 @@
 export type SpecInfo = {
-  value: ;
-  definition: ;
-  analogy: ;
-  buyerValue: ;
-}
+  value: string | number;
+  definition: string;
+  analogy: string;
+  buyerValue: string;
+};
