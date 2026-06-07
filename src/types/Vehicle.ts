@@ -9,4 +9,5 @@ export type Vehicle = {
   bodyStyle: string;
 
   price?: number;
+  image?: string;
 }
