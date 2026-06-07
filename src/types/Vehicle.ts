@@ -13,4 +13,5 @@ export type Vehicle = {
   category: "vehicle";
 
   engine: SpecInfo;
+  liters?: SpecInfo;
 }
