@@ -7,4 +7,6 @@ export type Vehicle = {
   model: string;
   trim: string;
   bodyStyle: string;
+
+  price?: number;
 }
