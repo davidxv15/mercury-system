@@ -6,4 +6,5 @@ export type Vehicle = {
   make: string;
   model: string;
   trim: string;
+  bodyStyle: string;
 }
