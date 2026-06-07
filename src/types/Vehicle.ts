@@ -17,4 +17,5 @@ export type Vehicle = {
   cylinders?: SpecInfo;
   horsepower?: SpecInfo;
   torque?: SpecInfo;
+  transmission?: SpecInfo;
 }
