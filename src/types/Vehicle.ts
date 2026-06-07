@@ -11,4 +11,6 @@ export type Vehicle = {
   price?: number;
   image?: string;
   category: "vehicle";
+
+  engine: SpecInfo;
 }
