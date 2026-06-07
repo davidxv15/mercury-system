@@ -22,4 +22,4 @@ export type Vehicle = {
   
   keyFeatures: string[];
   bestFor: string;
-}
+};
