@@ -21,5 +21,4 @@ export type Vehicle = {
   drivetrain?: SpecInfo;
   
   keyFeatures: string[];
-  bestFor: string;
 };
