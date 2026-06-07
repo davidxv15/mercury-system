@@ -15,4 +15,5 @@ export type Vehicle = {
   engine: SpecInfo;
   liters?: SpecInfo;
   cylinders?: SpecInfo;
+  horsepower?: SpecInfo;
 }
