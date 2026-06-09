@@ -8,5 +8,6 @@ export const broncos: Vehicle[] = [
     model: "",
     trim: "",
     bodyStyle: "",
+    bestFor: "",
   }
 ];
