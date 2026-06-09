@@ -9,5 +9,9 @@ export const broncos: Vehicle[] = [
     trim: "",
     bodyStyle: "",
     bestFor: "",
+
+    engine: {
+      
+    }
   }
 ];
