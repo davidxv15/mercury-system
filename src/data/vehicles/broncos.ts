@@ -1,1 +1,1 @@
-import { Vehicle}
+import { Vehicle } from "../../types/Vehicle";
