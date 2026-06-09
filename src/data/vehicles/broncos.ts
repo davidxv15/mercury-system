@@ -5,5 +5,6 @@ export const broncos: Vehicle[] = [
     id: "",
     year: 0,
     make: "",
+    model: "",
   }
 ];
