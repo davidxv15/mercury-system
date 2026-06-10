@@ -19,6 +19,7 @@ export const broncos: Vehicle[] = [
 
     horsepower: {
       value: 0,
+      definition: "",
     }
   }
 ];
