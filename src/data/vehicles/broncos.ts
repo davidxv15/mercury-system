@@ -21,6 +21,7 @@ export const broncos: Vehicle[] = [
       value: 0,
       definition: "",
       analogy: "",
+      buyerValue: ""
     }
   }
 ];
