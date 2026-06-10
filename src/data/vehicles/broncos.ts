@@ -11,7 +11,7 @@ export const broncos: Vehicle[] = [
     bestFor: "",
 
     engine: {
-      
+      value: "",
     }
   }
 ];
