@@ -13,7 +13,7 @@ export const mustangs: Mustang[] = [
     bodyStyle: "Fastback",
 
     engine: {
-      value: "",
+      value: "2.3L Turbo Inline-4",
       definition: "",
       analogy: "",
       buyerValue: ""
