@@ -20,7 +20,7 @@ export const mustangs: Mustang[] = [
     },
 
     liters: {
-      value: "",
+      value: "2.3",
       definition: "",
       analogy: "",
       buyerValue: ""
