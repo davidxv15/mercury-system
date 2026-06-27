@@ -16,7 +16,7 @@ export const mustangs: Mustang[] = [
       value: "2.3L Turbo Inline-4",
       definition: "A turbocharged 4-cylinder engine that balances power and efficiency.",
       analogy: "A smaller engine with a turbo is like a compact athlete with a boost button.",
-      buyerValue: ""
+      buyerValue: "Good performance with better fuel economy and lower cost."
     },
 
     liters: {
