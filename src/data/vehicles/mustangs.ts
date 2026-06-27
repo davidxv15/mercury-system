@@ -21,7 +21,7 @@ export const mustangs: Mustang[] = [
 
     liters: {
       value: "2.3",
-      definition: "",
+      definition: "Engine displacement size.",
       analogy: "",
       buyerValue: ""
     },
