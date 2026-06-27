@@ -23,7 +23,7 @@ export const mustangs: Mustang[] = [
       value: "2.3",
       definition: "Engine displacement size.",
       analogy: "Lung size - smaller but boosted.",
-      buyerValue: ""
+      buyerValue: "Smaller engines are more efficient but can still be powerful with turbo."
     },
 
     cylinders: {
