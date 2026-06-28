@@ -27,7 +27,7 @@ export const mustangs: Mustang[] = [
     },
 
     cylinders: {
-      value: "",
+      value: 4,
       definition: "",
       analogy: "",
       buyerValue: ""
