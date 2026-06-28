@@ -37,7 +37,7 @@ export const mustangs: Mustang[] = [
       value: "315",
       definition: "Total engine output.",
       analogy: "Sprint speed.",
-      buyerValue: ""
+      buyerValue: "Quick acceleration for daily driving."
     },
 
     torque: {
