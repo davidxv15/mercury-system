@@ -30,7 +30,7 @@ export const mustangs: Mustang[] = [
       value: 4,
       definition: "Number of combustion chambers.",
       analogy: "4 workers doing efficient, focused work.",
-      buyerValue: ""
+      buyerValue: "Lower fuel use, lighter feel."
     },
 
     horsepower: {
