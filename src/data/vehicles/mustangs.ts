@@ -48,7 +48,7 @@ export const mustangs: Mustang[] = [
     },
 
     transmission: {
-      value: "",
+      value: "10-speed automatic",
       definition: "",
       analogy: "",
       buyerValue: ""
