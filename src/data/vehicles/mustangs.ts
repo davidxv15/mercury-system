@@ -44,7 +44,7 @@ export const mustangs: Mustang[] = [
       value: "350",
       definition: "Rotational force.",
       analogy: "Initial shove when you hit the gas.",
-      buyerValue: ""
+      buyerValue: "Feels quick off the line."
     },
 
     transmission: {
