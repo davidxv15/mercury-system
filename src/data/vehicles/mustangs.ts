@@ -51,7 +51,7 @@ export const mustangs: Mustang[] = [
       value: "10-speed automatic",
       definition: "Gear system controlling power delivery.",
       analogy: "Bike gears shifting automaitcally.",
-      buyerValue: ""
+      buyerValue: "Smooth and easy driving."
     },
 
     drivetrain: {
