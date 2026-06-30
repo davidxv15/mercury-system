@@ -80,7 +80,7 @@ export const mustangs: Mustang[] = [
     bodyStyle: "Fastback",
 
     engine: {
-      value: "",
+      value: "5.0L V8",
       definition: "",
       analogy: "",
       buyerValue: ""
