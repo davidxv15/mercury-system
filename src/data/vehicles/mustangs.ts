@@ -77,7 +77,7 @@ export const mustangs: Mustang[] = [
     id: "2025-gt-fastback",
     year: 2025,
     trim: "GT",
-    bodyStyle: "",
+    bodyStyle: "Fastback",
 
     engine: {
       value: "",
