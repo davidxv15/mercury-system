@@ -62,7 +62,7 @@ export const mustangs: Mustang[] = [
     },
     
     keyFeatures: [
-      "",
+      "Digital gauge cluster",
       "",
       "",
       ""
