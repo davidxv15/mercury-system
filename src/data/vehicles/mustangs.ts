@@ -81,7 +81,7 @@ export const mustangs: Mustang[] = [
 
     engine: {
       value: "5.0L V8",
-      definition: "",
+      definition: "Naturally aspirated 8-cylinder engine focused on power and sound.",
       analogy: "",
       buyerValue: ""
     },
