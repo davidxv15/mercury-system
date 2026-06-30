@@ -65,7 +65,7 @@ export const mustangs: Mustang[] = [
       "Digital gauge cluster",
       "Large touchscreen",
       "Drive modes",
-      ""
+      "Selectable steering"
     ]
   },
 
