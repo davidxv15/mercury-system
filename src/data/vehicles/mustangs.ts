@@ -125,7 +125,7 @@ export const mustangs: Mustang[] = [
       value: "RWD",
       definition: "Rear-wheel drive.",
       analogy: "Push from behind.",
-      buyerValue: ""
+      buyerValue: "Classic sports car handling."
     },
 
     keyFeatures: [
