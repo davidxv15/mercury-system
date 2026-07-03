@@ -132,7 +132,7 @@ export const mustangs: Mustang[] = [
       "Active exhaust",
       "Performance gauges",
       "Launch control",
-      ""
+      "Track apps"
     ]
   },
 
