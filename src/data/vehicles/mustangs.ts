@@ -118,7 +118,7 @@ export const mustangs: Mustang[] = [
       value: "6-speed manual or 10-speed automatic",
       definition: "Manual or automatic gear control.",
       analogy: "Manual = playing guitar, Auto = pressing play.",
-      buyerValue: ""
+      buyerValue: "Choice between engagement and convenience."
     },
 
     drivetrain: {
