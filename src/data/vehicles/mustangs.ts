@@ -130,7 +130,7 @@ export const mustangs: Mustang[] = [
 
     keyFeatures: [
       "Active exhaust",
-      "",
+      "Performance gauges",
       "",
       ""
     ]
