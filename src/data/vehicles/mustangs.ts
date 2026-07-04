@@ -141,7 +141,7 @@ export const mustangs: Mustang[] = [
   // ==========================
   
   {
-    id: "",
+    id: "2025-darkhorse-fastback",
     year: 0,
     trim: "",
     bodyStyle: "",
