@@ -150,7 +150,7 @@ export const mustangs: Mustang[] = [
       value: "5.0 V8 (High Performance)",
       definition: "Upgraded V8 tuned for track performance.",
       analogy: "Race-prepped version of the same engine.",
-      buyerValue: ""
+      buyerValue: "More aggresive power and track capability."
     },
 
     liters: {
