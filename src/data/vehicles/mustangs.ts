@@ -147,7 +147,7 @@ export const mustangs: Mustang[] = [
     bodyStyle: "Fastback",
 
     engine: {
-      value: "",
+      value: "5.0 V8 (High Performance)",
       definition: "",
       analogy: "",
       buyerValue: ""
