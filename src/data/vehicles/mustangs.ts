@@ -162,7 +162,7 @@ export const mustangs: Mustang[] = [
 
     cylinders: {
       value: 8,
-      definition: "",
+      definition: "Number of combustion chambers.",
       analogy: "",
       buyerValue: ""
     },
