@@ -168,7 +168,7 @@ export const mustangs: Mustang[] = [
     },
 
     horsepower: {
-      value: 0,
+      value: 500,
       definition: "",
       analogy: "",
       buyerValue: ""
