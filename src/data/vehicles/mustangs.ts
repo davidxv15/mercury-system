@@ -157,7 +157,7 @@ export const mustangs: Mustang[] = [
       value: 5.0,
       definition: "Engine displacement.",
       analogy: "Same lungs, trained athlete.",
-      buyerValue: ""
+      buyerValue: "More refined performance tuning."
     },
 
     cylinders: {
