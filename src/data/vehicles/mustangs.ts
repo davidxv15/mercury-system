@@ -177,7 +177,7 @@ export const mustangs: Mustang[] = [
     torque: {
       value: 418,
       definition: "Rotational force.",
-      analogy: "",
+      analogy: "Explosive push.",
       buyerValue: ""
     },
 
