@@ -190,7 +190,7 @@ export const mustangs: Mustang[] = [
 
     drivetrain: {
       value: "RWD",
-      definition: "",
+      definition: "Rear-wheel drive.",
       analogy: "",
       buyerValue: ""
     },
