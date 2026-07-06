@@ -183,7 +183,7 @@ export const mustangs: Mustang[] = [
 
     transmission: {
       value: "6-speed manual or 10-speed automatic",
-      definition: "",
+      definition: "Performance-tuned gear systems.",
       analogy: "",
       buyerValue: ""
     },
