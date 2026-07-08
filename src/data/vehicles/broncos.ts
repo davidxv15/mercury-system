@@ -3,7 +3,7 @@ import { Vehicle } from "../../types/Vehicle";
 export const broncos: Vehicle[] = [
   {
     id: "2026-bronco-base",
-    year: 0,
+    year: 2026,
     make: "",
     model: "",
     trim: "",
