@@ -199,7 +199,7 @@ export const mustangs: Mustang[] = [
       "Track suspension",
       "Enhanced cooling",
       "Performance brakes",
-      ""
+      "Aerodynamic tuning"
     ]
   }
 
