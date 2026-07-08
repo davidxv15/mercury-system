@@ -196,7 +196,7 @@ export const mustangs: Mustang[] = [
     },
 
     keyFeatures: [
-      "",
+      "Track suspension",
       "",
       "",
       ""
