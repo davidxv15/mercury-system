@@ -2,7 +2,7 @@ import { Vehicle } from "../../types/Vehicle";
 
 export const broncos: Vehicle[] = [
   {
-    id: "",
+    id: "2026-bronco-base",
     year: 0,
     make: "",
     model: "",
