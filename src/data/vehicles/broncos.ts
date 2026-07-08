@@ -4,7 +4,7 @@ export const broncos: Vehicle[] = [
   {
     id: "2026-bronco-base",
     year: 2026,
-    make: "",
+    make: "Ford",
     model: "",
     trim: "",
     bodyStyle: "",
