@@ -21,7 +21,7 @@ export const broncos: Vehicle[] = [
       value: 300,
       definition: "How much work the engine can produce.",
       analogy: "Sprint speee.",
-      buyerValue: ""
+      buyerValue: "Plenty for daily driving and trail use."
 
     },
 
