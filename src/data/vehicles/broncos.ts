@@ -11,7 +11,7 @@ export const broncos: Vehicle[] = [
     bestFor: "Entry Bronco buyer who wants the core off-road identity.",
 
     engine: {
-      value: "",
+      value: "2.3 Ecoboost I-4",
       definition: "",
       analogy: "",
       buyerValue: "",
