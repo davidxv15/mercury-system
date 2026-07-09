@@ -19,7 +19,7 @@ export const broncos: Vehicle[] = [
 
     horsepower: {
       value: 300,
-      definition: "",
+      definition: "How much work the engine can produce.",
       analogy: "",
       buyerValue: ""
 
