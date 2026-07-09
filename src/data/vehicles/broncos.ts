@@ -12,7 +12,7 @@ export const broncos: Vehicle[] = [
 
     engine: {
       value: "2.3 Ecoboost I-4",
-      definition: "",
+      definition: "Turbocharged four-cylinder engine.",
       analogy: "",
       buyerValue: "",
     },
