@@ -7,7 +7,7 @@ export const broncos: Vehicle[] = [
     make: "Ford",
     model: "Bronco",
     trim: "Base",
-    bodyStyle: "",
+    bodyStyle: "SUV",
     bestFor: "",
 
     engine: {
