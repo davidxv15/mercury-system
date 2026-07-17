@@ -30,6 +30,12 @@ export const broncos: Vehicle[] = [
       definition: "Rotational shove from the engine.",
       analogy: "The push into your seat.",
       buyerValue: "Helps with crawling, climbing, acceleration."
+    },
+
+    drivetrain: {
+      
     }
+
+
   }
 ];
