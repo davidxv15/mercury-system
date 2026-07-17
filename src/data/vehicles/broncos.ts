@@ -27,7 +27,7 @@ export const broncos: Vehicle[] = [
 
     torque: {
       value: "TBD",
-      definition: "R"
+      definition: "Rotational shove from the engine."
     }
   }
 ];
