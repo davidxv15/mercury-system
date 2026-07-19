@@ -40,7 +40,8 @@ export const broncos: Vehicle[] = [
     },
 
     transmission: {
-      value: ""
+      value: "",
+      definition: "",
     }
 
 
