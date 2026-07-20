@@ -43,7 +43,7 @@ export const broncos: Vehicle[] = [
       value: "Manuel or automatic depending on package.",
       definition: "Gear system.",
       analogy: "Bike gears for the engine.",
-      buyerValue: ""
+      buyerValue: "Manual for engagement, automatic for ease."
     }
 
 
