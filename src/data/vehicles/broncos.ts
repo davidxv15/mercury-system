@@ -41,7 +41,7 @@ export const broncos: Vehicle[] = [
 
     transmission: {
       value: "Manuel or automatic depending on package.",
-      definition: "",
+      definition: "Gear system.",
       analogy: "",
       buyerValue: ""
     }
