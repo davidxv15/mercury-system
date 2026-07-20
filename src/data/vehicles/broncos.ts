@@ -50,9 +50,11 @@ export const broncos: Vehicle[] = [
       "4x4",
       "G.O.A.T. Modes",
       "Removable doors/top"
-
     ]
-
-
   },
+
+  {
+    id: "2026-bronco-big-bend",
+    
+  }
 ];
