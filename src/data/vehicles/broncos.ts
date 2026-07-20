@@ -48,7 +48,8 @@ export const broncos: Vehicle[] = [
 
     keyFeatures: [
       "4x4",
-      "G.O.A.T. Modes"
+      "G.O.A.T. Modes",
+      "Removable doors/top"
 
     ]
 
