@@ -60,7 +60,7 @@ export const broncos: Vehicle[] = [
     model: "Bronco",
     trim: "Big Bend",
     bodyStyle: "SUV",
-    bestFor: "",
+    bestFor: "Most people: daily driving plus adventure looks.",
 
   }
 ];
