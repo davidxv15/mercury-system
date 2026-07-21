@@ -59,7 +59,8 @@ export const broncos: Vehicle[] = [
     make: "Ford",
     model: "Bronco",
     trim: "",
-    bodyStyle: ""
+    bodyStyle: "",
+    bestFor: "",
 
   }
 ];
