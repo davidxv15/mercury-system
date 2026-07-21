@@ -62,5 +62,9 @@ export const broncos: Vehicle[] = [
     bodyStyle: "SUV",
     bestFor: "Most people: daily driving plus adventure looks.",
 
+    engine: {
+      
+    }
+
   }
 ];
