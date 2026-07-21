@@ -63,7 +63,7 @@ export const broncos: Vehicle[] = [
     bestFor: "Most people: daily driving plus adventure looks.",
 
     engine: {
-      
+      value: ""
     }
 
   }
