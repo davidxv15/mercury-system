@@ -67,6 +67,10 @@ export const broncos: Vehicle[] = [
       definition: "Turbocharged four-cylinder engine.",
       analogy: "Efficient trail runner.",
       buyerValue: "Balanced power and cost."
+    },
+
+    horsepower: {
+      
     }
 
   }
