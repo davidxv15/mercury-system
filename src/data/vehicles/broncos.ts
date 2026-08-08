@@ -73,7 +73,7 @@ export const broncos: Vehicle[] = [
       value: 300,
       definition: "Engine output.",
       analogy: "How fast the athlete can sprint.",
-      buyerValue: ""
+      buyerValue: "Strong everyday performance."
     }
 
   }
