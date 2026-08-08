@@ -70,10 +70,10 @@ export const broncos: Vehicle[] = [
     },
 
     horsepower: {
-      value: ,
+      value: 300,
       definition: "",
       analogy: "",
-      buyerValue: "",
+      buyerValue: ""
     }
 
   }
