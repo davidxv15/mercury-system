@@ -78,7 +78,7 @@ export const broncos: Vehicle[] = [
 
     torque: {
       value: "TBD",
-      definition: "",
+      definition: "Twisting force.",
       analogy: "",
       buyerValue; ""
     }
