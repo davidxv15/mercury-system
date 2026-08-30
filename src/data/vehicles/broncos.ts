@@ -81,6 +81,10 @@ export const broncos: Vehicle[] = [
       definition: "Twisting force.",
       analogy: "Low-speed muscle.",
       buyerValue; "Useful for trails and takeoff feel."
+    },
+
+    drivetrain: {
+      
     }
 
   }
