@@ -98,6 +98,9 @@ export const broncos: Vehicle[] = [
     },
 
     keyFeatures: ["4x4", "G.O.A.T. Modes", "Adventure-ready style"]
+  },
 
-  }
+  {
+    id: "2026-bronco-outer-banks",
+  },
 ];
