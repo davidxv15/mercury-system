@@ -95,7 +95,9 @@ export const broncos: Vehicle[] = [
       definition: "Conrols gear changes.",
       analogy: "Choosing the right bike gear.",
       buyerValue: "Lets buyer choose involvement or convenience."
-    }
+    },
+
+    keyFeatures: []
 
   }
 ];
