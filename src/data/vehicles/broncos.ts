@@ -93,16 +93,16 @@ export const broncos: Vehicle[] = [
     transmission: {
       value: "Manual or automatic",
       definition: "Conrols gear changes.",
-      analogy: "Choosing the right bike gear.",
-      buyerValue: "Lets buyer choose involvement or convenience."
+      /analogy: "Choosing the right bike gear.",
+       buyerValue: "Lets buyer choose involvement or convenience."
     },
 
-    keyFeatures: ["4x4", "G.O.A.T. Modes", "Adventure-ready style"]
-  },
+  //   keyFeatures: ["4x4", "G.O.A.T. Modes", "Adventure-ready style"]
+  // },
 
-  {
-    id: "2026-bronco-outer-banks",
-    year: 2026,
-    make: "Ford",
-  },
+  // {
+  //   id: "2026-bronco-outer-banks",
+  //   year: 2026,
+  //   make: "Ford",
+  // },
 ];
