@@ -97,12 +97,12 @@ export const broncos: Vehicle[] = [
        buyerValue: "Lets buyer choose involvement or convenience."
     },
 
-  //   keyFeatures: ["4x4", "G.O.A.T. Modes", "Adventure-ready style"]
-  // },
+     keyFeatures: ["4x4", "G.O.A.T. Modes", "Adventure-ready style"]
+   },
 
-  // {
-  //   id: "2026-bronco-outer-banks",
-  //   year: 2026,
-  //   make: "Ford",
-  // },
+  {
+     id: "2026-bronco-outer-banks",
+     year: 2026,
+     make: "Ford",
+   },
 ];
