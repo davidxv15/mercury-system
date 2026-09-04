@@ -10,6 +10,8 @@ export const broncos: Vehicle[] = [
     bodyStyle: "SUV",
     bestFor: "Entry Bronco buyer who wants the core off-road identity.",
 
+    category: "vehicle",
+
     engine: {
       value: "2.3 Ecoboost I-4",
       definition: "Turbocharged four-cylinder engine.",
@@ -110,7 +112,7 @@ export const broncos: Vehicle[] = [
     bestFor: "Buyer who wants Bronco style with more comfort and polish.",
 
     engine: {
-      
+
     }
   }
 
