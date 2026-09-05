@@ -119,6 +119,11 @@ export const broncos: Vehicle[] = [
       analogy: "Regular athelete or bigger athelete.",
       buyerValue: "More comfort trim with optimal stronger power."
     },
+
+    horsepower: {
+      
+    }
+
   }
 
 ];
