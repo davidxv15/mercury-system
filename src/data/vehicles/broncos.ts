@@ -115,7 +115,8 @@ export const broncos: Vehicle[] = [
 
     engine: {
       value: "",
-      definition: ""
+      definition: "",
+      analogy: ""
     }
   }
 
