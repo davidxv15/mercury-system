@@ -64,6 +64,8 @@ export const broncos: Vehicle[] = [
     bodyStyle: "SUV",
     bestFor: "Most people: daily driving plus adventure looks.",
 
+    category: "vehicle",
+
     engine: {
       value: "2.3 Ecoboost I-4",
       definition: "Turbocharged four-cylinder engine.",
