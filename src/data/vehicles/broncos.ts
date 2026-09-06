@@ -127,6 +127,10 @@ export const broncos: Vehicle[] = [
       buyerValue: "Lets buyer pick value or extra punch."
     },
 
+    torque: {
+      
+    }
+
   }
 
 ];
