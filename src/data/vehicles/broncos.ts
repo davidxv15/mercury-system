@@ -135,7 +135,8 @@ export const broncos: Vehicle[] = [
     },
 
     drivetrain: {
-      value: ""
+      value: "",
+      definition: ""
     }
 
   }
