@@ -139,6 +139,10 @@ export const broncos: Vehicle[] = [
       definition: "Power to all four wheels.",
       analogy: "All four feet pushing.",
       buyerValue: "Bronco capability wiht nicer trim."
+    },
+
+    transmission: {
+      
     }
 
   }
