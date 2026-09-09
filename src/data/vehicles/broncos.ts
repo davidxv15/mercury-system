@@ -149,7 +149,10 @@ export const broncos: Vehicle[] = [
     },
 
     keyFeatures: ["Comfort-focused", "Style upgrades", "Available 2.7L V6"]
+  },
 
+  {
+    id: "2026-bronco-badlands",
   }
 
 ];
