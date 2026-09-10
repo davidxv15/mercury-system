@@ -157,6 +157,7 @@ export const broncos: Vehicle[] = [
     make: "Ford",
     model: "Bronco",
     trim: "Badlands",
+    bodyStyle: "SUV"
   }
 
 ];
