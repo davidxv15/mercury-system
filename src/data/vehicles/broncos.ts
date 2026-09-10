@@ -155,6 +155,7 @@ export const broncos: Vehicle[] = [
     id: "2026-bronco-badlands",
     year: 2026,
     make: "Ford",
+    model: "Bronco",
   }
 
 ];
