@@ -165,7 +165,7 @@ export const broncos: Vehicle[] = [
     engine: {
       value: "2.3L EcoBoost I-4 / available 2.7L EcoBoost V6",
       definition: "Trail-ready powertrain choices.",
-      analogy: "",
+      analogy: "Off-road hiking boot with engine options.",
       buyerValue: ""
     }
   }
