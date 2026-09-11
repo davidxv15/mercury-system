@@ -167,6 +167,10 @@ export const broncos: Vehicle[] = [
       definition: "Trail-ready powertrain choices.",
       analogy: "Off-road hiking boot with engine options.",
       buyerValue: "More serious off-road setup."
+    },
+
+    horsepower: {
+      
     }
   }
 
