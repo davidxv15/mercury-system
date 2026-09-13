@@ -173,7 +173,7 @@ export const broncos: Vehicle[] = [
       value: "300 / 330",
       definition: "Power output depending engine.",
       analogy: "Base strength vs extra muscle.",
-      buyerValue: ""
+      buyerValue: "V6 adds stronger performance."
     }
   }
 
