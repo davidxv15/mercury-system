@@ -177,7 +177,8 @@ export const broncos: Vehicle[] = [
     },
 
     torque: {
-      value: ""
+      value: "",
+      definition: ""
     }
   }
 
