@@ -172,7 +172,7 @@ export const broncos: Vehicle[] = [
     horsepower: {
       value: "300 / 330",
       definition: "Power output depending engine.",
-      analogy: "",
+      analogy: "Base strength vs extra muscle.",
       buyerValue: ""
     }
   }
