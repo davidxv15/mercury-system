@@ -180,7 +180,7 @@ export const broncos: Vehicle[] = [
       value: "TBD",
       definition: "Low-speed force.",
       analogy: "Climbing strength.",
-      buyerValue: ""
+      buyerValue: "Important for trails and obstacles."
     }
   }
 
