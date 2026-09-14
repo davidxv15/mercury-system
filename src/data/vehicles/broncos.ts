@@ -181,6 +181,10 @@ export const broncos: Vehicle[] = [
       definition: "Low-speed force.",
       analogy: "Climbing strength.",
       buyerValue: "Important for trails and obstacles."
+    },
+
+    drivetrain: {
+      
     }
   }
 
