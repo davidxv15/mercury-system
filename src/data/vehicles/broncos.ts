@@ -200,6 +200,7 @@ export const broncos: Vehicle[] = [
     keyFeatures: ["More off-road focused", "Trail equipment", "Available Wildtrack package"]
   },
 
-  id: "2026-bronco-heritage"
+  id: "2026-bronco-heritage",
+  year: 2026
 
 ];
