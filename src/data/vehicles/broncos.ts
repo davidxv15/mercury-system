@@ -197,7 +197,7 @@ export const broncos: Vehicle[] = [
       buyerValue: "Buyer can choose feel."
     },
 
-    keyFeatures: []
+    keyFeatures: ["More off-road focused"]
   }
 
 ];
