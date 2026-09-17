@@ -193,7 +193,8 @@ export const broncos: Vehicle[] = [
     transmission: {
       value: "Manual or automatic depending engine.",
       definition: "",
-      analogy: ""
+      analogy: "",
+      buyerValue: ""
     }
   }
 
