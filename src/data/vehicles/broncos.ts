@@ -148,7 +148,7 @@ export const broncos: Vehicle[] = [
       buyerValue: "Easy daily driving."
     },
 
-    keyFeatures: ["Comfort-focused", "Style upgrades", "Available 2.7L V6"]
+    keyFeatures: ["Comfort-focused", "Style upgrades", "Available 2.7L V6"],
   },
 
   {
@@ -197,7 +197,7 @@ export const broncos: Vehicle[] = [
       buyerValue: "Buyer can choose feel."
     },
 
-    keyFeatures: ["More off-road focused", "Trail equipment", "Available Wildtrack package"]
+    keyFeatures: ["More off-road focused", "Trail equipment", "Available Wildtrack package"],
   },
 
   id: "2026-bronco-heritage",
