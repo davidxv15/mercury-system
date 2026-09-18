@@ -209,6 +209,6 @@ export const broncos: Vehicle[] = [
   bestFor: "Buyer who wants retro Bronco style.",
 
   engine: {
-    
+    value: ""
   }
 ];
