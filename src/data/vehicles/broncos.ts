@@ -206,5 +206,9 @@ export const broncos: Vehicle[] = [
   model: "Bronco",
   trim: "Heritage Edition",
   bodyStyle: "SUV",
-  bestFor: "Buyer who wants retro Bronco style."
+  bestFor: "Buyer who wants retro Bronco style.",
+
+  engine: {
+    
+  }
 ];
