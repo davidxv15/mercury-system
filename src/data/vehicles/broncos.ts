@@ -208,6 +208,8 @@ export const broncos: Vehicle[] = [
   bodyStyle: "SUV",
   bestFor: "Buyer who wants retro Bronco style.",
 
+  catgory: ""
+
   engine: {
     value: "",
     definition: "",
