@@ -197,22 +197,16 @@ export const broncos: Vehicle[] = [
       buyerValue: "Buyer can choose feel."
     },
 
-    keyFeatures: ["More off-road focused", "Trail equipment", "Available Wildtrack package"],
+    keyFeatures: ["More off-road focused", "Trail equipment", "Available Wildtrack package"]
   },
 
-  id: "2026-bronco-heritage",
-  year: 2026,
-  make: "Ford",
-  model: "Bronco",
-  trim: "Heritage Edition",
-  bodyStyle: "SUV",
-  bestFor: "Buyer who wants retro Bronco style.",
-
-  catgory: "vehicle",
-
-  engine: {
-    value: "",
-    definition: "",
-    analogy: ""
+  {
+    id: "2026-bronco-heritage",
+    year: 2026,
+    make: "Ford",
+    model: "Bronco",
+    trim: "Heritage Edition",
+    bodyStyle: "SUV",
+    bestFor: "Buyer who wants retro Bronco style.",
   }
 ];
