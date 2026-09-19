@@ -208,5 +208,9 @@ export const broncos: Vehicle[] = [
     trim: "Heritage Edition",
     bodyStyle: "SUV",
     bestFor: "Buyer who wants retro Bronco style.",
+
+    engine: {
+      value: ""
+    }
   }
 ];
