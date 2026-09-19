@@ -213,7 +213,7 @@ export const broncos: Vehicle[] = [
       value: "2.3 Ecoboost I-4 / available 2.7L Ecoboost V6",
       definition: "Modern turbo engine choices with retro styling.",
       analogy: "Old-school jacket, modern running shoes.",
-      buyerValue: ""
+      buyerValue: "Classic look without old-car compromises."
     },
 
     horsepower: {
