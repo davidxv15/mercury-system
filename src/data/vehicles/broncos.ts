@@ -101,7 +101,7 @@ export const broncos: Vehicle[] = [
       buyerValue: "Lets buyer choose involvement or convenience."
     },
     
-    keyFeatures: ["4x4", "G.O.A.T. Modes", "Adventure-ready style"],
+    keyFeatures: ["4x4", "G.O.A.T. Modes", "Adventure-ready style"]
   },
 
   {
@@ -112,6 +112,8 @@ export const broncos: Vehicle[] = [
     trim: "Outer Banks",
     bodyStyle: "SUV",
     bestFor: "Buyer who wants Bronco style with more comfort and polish.",
+
+    category: "vehicle",
 
     engine: {
       value: "2.3 Ecoboost I-4 / available 2.7 Ecoboost V6",
