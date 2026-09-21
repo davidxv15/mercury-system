@@ -231,7 +231,7 @@ export const broncos: Vehicle[] = [
       value: "TBD",
       definition: "Twisting force.",
       analogy: "Pulling/climbing shove.",
-      buyerValue: ""
+      buyerValue: "Helps the Bronco feel strong."
     }
 
   }
