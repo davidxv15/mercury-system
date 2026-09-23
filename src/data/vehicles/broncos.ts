@@ -248,6 +248,6 @@ export const broncos: Vehicle[] = [
       buyerValue: "Can feel classic or convenient."
     },
 
-    keyFeatures: [""]
+    keyFeatures: ["Retro design", "Bronco heritage styling",]
   },
 ];
