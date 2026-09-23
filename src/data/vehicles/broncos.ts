@@ -257,6 +257,10 @@ export const broncos: Vehicle[] = [
     make: "Ford",
     model: "Bronco",
     trim: "Stroppe Edition",
+    bodyStyle: "SUV",
+    bestFor: "Buyer who wants Baja heritage and special-edition personality.",
+
+    
   }
 
 ];
