@@ -245,6 +245,7 @@ export const broncos: Vehicle[] = [
       value: "Manual or automatic depending setup.",
       definition: "Gear system.",
       analogy: "Driver control style."
+      buyerValue: "Can feel classic or convenient."
     }
 
   }
