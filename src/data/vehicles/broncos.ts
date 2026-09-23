@@ -250,4 +250,9 @@ export const broncos: Vehicle[] = [
 
     keyFeatures: ["Retro design", "Bronco heritage styling", "Available V6"]
   },
+
+  {
+    id: "2026-bronco-stroppe",
+  }
+
 ];
