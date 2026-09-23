@@ -242,7 +242,7 @@ export const broncos: Vehicle[] = [
     },
 
     transmission: {
-      value: "",
+      value: "Manual or automatic depending setup.",
     }
 
   }
