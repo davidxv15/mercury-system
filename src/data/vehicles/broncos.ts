@@ -260,6 +260,8 @@ export const broncos: Vehicle[] = [
     bodyStyle: "SUV",
     bestFor: "Buyer who wants Baja heritage and special-edition personality.",
 
+    category: "vehicle",
+
     
   }
 
