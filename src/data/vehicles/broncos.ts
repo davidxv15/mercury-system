@@ -263,7 +263,7 @@ export const broncos: Vehicle[] = [
     category: "vehicle",
 
     engine: {
-      value: "",
+      value: "330",
       definition: "",
       analogy: "",
       buyerValue: ""
