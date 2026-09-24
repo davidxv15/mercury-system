@@ -267,6 +267,10 @@ export const broncos: Vehicle[] = [
       definition: "Twin-turbo V6 engine.",
       analogy: "Bigger athelete with two boost buttons.",
       buyerValue: "Stronger performance and special-edition appeal."
+    },
+
+    horsepower: {
+      
     }
 
   }
