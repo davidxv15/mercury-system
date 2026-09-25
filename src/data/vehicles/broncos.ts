@@ -270,7 +270,7 @@ export const broncos: Vehicle[] = [
     },
 
     horsepower: {
-      value: "",
+      value: 330,
     }
 
   }
