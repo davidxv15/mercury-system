@@ -281,6 +281,10 @@ export const broncos: Vehicle[] = [
       definition: "Engine shove.",
       analogy: "Harder push from behind.",
       buyerValue: "Better acceleration and trail muscle."
+    },
+
+    drivetrain: {
+      
     }
 
   }
