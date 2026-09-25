@@ -271,7 +271,8 @@ export const broncos: Vehicle[] = [
 
     horsepower: {
       value: 330,
-      definition: "Engine output."
+      definition: "Engine output.",
+      analogy: "More sprint power than the 2.3L."
     }
 
   }
