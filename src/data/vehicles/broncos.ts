@@ -274,6 +274,10 @@ export const broncos: Vehicle[] = [
       definition: "Engine output.",
       analogy: "More sprint power than the 2.3L.",
       buyerValue: "Feels stronger and more premium."
+    },
+
+    torque: {
+      
     }
 
   }
