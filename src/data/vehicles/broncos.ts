@@ -285,7 +285,7 @@ export const broncos: Vehicle[] = [
 
     drivetrain: {
       value: "4x4",
-      definition: "",
+      definition: "Four-wheel-drive.",
       analogy: "",
       buyerValue: ""
     }
