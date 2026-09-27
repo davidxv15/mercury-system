@@ -295,8 +295,9 @@ export const broncos: Vehicle[] = [
       definition: "Automatic gear system.",
       analogy: "Computer-shifted bike gears.",
       buyerValue: "Easy power delivery."
-    }
+    },
 
-  }
+    keyFeatures: []
+  },
 
 ];
