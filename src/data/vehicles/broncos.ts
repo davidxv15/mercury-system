@@ -297,7 +297,7 @@ export const broncos: Vehicle[] = [
       buyerValue: "Easy power delivery."
     },
 
-    keyFeatures: []
+    keyFeatures: ["Baja-inspired", ]
   },
 
 ];
