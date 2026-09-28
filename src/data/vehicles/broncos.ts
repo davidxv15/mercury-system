@@ -305,6 +305,7 @@ export const broncos: Vehicle[] = [
     year: 2026,
     make: "Ford",
     model: "Bronco",
+    trim: ""
   }
 
 ];
