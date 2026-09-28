@@ -302,7 +302,8 @@ export const broncos: Vehicle[] = [
 
   {
     id: "2026-bronco-raptor",
-    year: 
+    year: 2026,
+    
   }
 
 ];
