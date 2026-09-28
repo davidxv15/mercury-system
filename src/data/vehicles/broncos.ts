@@ -300,4 +300,8 @@ export const broncos: Vehicle[] = [
     keyFeatures: ["Baja-inspired", "Special edition",]
   },
 
+  {
+    id: "2026-bronco-raptor",
+  }
+
 ];
