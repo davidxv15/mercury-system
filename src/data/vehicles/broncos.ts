@@ -309,6 +309,7 @@ export const broncos: Vehicle[] = [
     bodyStyle: "SUV",
     bestFor: "High-performance off-road buyer.",
 
+    category: "vehicle",
 
   }
 
