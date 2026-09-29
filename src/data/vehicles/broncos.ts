@@ -307,9 +307,9 @@ export const broncos: Vehicle[] = [
     model: "Bronco",
     trim: "Raptor",
     bodyStyle: "SUV",
-    bestFor: "",
+    bestFor: "High-performance off-road buyer.",
 
-    
+
   }
 
 ];
