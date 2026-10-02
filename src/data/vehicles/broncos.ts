@@ -314,7 +314,7 @@ export const broncos: Vehicle[] = [
     engine: {
       value: "3.0L Ecoboost V6",
       definition: "High-output twin-turbo V6.",
-      analogy: "",
+      analogy: "Desert racing engine energy.",
     }
 
   }
