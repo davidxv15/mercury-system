@@ -336,7 +336,7 @@ export const broncos: Vehicle[] = [
       value: "4x4",
       definition: "Four-wheel-drive.",
       analogy: "All four limbs attacking terrain.",
-      buyerValue: ""
+      buyerValue: "Maximum Bronco capability."
     }
 
   }
