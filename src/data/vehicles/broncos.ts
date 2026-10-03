@@ -330,6 +330,10 @@ export const broncos: Vehicle[] = [
       definition: "Rotational force.",
       analogy: "Big shove for speed and terrain.",
       buyerValue: "Makes it feel aggresive and capable."
+    },
+
+    drivetrain: {
+      
     }
 
   }
