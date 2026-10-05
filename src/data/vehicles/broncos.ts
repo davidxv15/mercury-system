@@ -343,7 +343,7 @@ export const broncos: Vehicle[] = [
       value: "10-speed automatic",
       definition: "Automatic gear system.",
       analogy: "Fast automatic hear manager.",
-      buyerValue: ""
+      buyerValue: "Handles high power smoothly."
     }
 
   }
