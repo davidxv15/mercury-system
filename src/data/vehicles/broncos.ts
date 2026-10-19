@@ -346,7 +346,7 @@ export const broncos: Vehicle[] = [
       buyerValue: "Handles high power smoothly."
     },
 
-    keyFeatures: [""
+    keyFeatures: ["", ""
 
     ]
 
