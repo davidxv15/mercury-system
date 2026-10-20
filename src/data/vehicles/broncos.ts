@@ -358,7 +358,11 @@ export const broncos: Vehicle[] = [
     make: "Ford",
     trim: "Raptor",
     bodyStyle: "SUV",
-    bestFor: "Buyers who want extremee off-road capabilityu and high-performance power."
+    bestFor: "Buyers who want extremee off-road capabilityu and high-performance power.",
+
+    engine: {
+      
+    }
   }
 
 ];
