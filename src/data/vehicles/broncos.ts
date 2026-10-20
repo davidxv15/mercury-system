@@ -357,7 +357,8 @@ export const broncos: Vehicle[] = [
     year: 2026,
     make: "Ford",
     trim: "Raptor",
-    bodyStyle: "SUV"
+    bodyStyle: "SUV",
+    bestFor: "Buyers who want extremee off-road capabilityu and high-performance power."
   }
 
 ];
